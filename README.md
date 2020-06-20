@@ -1,5 +1,5 @@
 # Slient Recording App 
-Flutter representation of a Restaurant app UI i found in Uplabs. 
+Record your ideas, memos, lectures, meetings and more with the slient recorder app.. 
 
 
 Star⭐ the repo if you like what you see😉.

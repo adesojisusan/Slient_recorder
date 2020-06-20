@@ -2,7 +2,7 @@
 Record your ideas, memos, lectures, meetings and more with the slient recorder app.. 
 
 
-Star⭐ the repo if you like what you see😉.
+Star⭐ the repo if you like what you see😉
 (https://twitter.com/adesojisusan)
 
 
